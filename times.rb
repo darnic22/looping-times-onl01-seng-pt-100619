@@ -2,7 +2,7 @@ def using_times
 	#your code here
 end
 
-loop using_times
+7.times do
   puts "Wingardium Leviosa"
   
 
